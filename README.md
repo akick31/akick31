@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### 🚀 About Me 
-I am Andrew Kicklighter, a Software Engineer based out of the Twin Cities in Minnesota. I graduated Magna Cum Laude from Iowa State in May of 2020 with a degree in Computer Engineering. 
+🤠 My name is Andrew Kicklighter, a Software Engineer based out of the Twin Cities in Minnesota. I graduated Magna Cum Laude from Iowa State in May of 2020 with a degree in Computer Engineering. 
 
 🔭 I enjoy working on a few personal projects in my free time, the main project I've been currently working on is a Discord bot/Spring Boot service/website for a server I'm in. This project is creating a number based football game that the server competes in. The gist of the game is you guess a number between 1-1500, as does your opponent. The difference in numbers determines the result of the football play. The closer the number, the better the outcome for the offense and vice versa. This project is written in Kotlin for the Discord service and uses the [Kord Discord Library](https://github.com/kordlib/kord?tab=readme-ov-file), Kotlin Spring Boot for the backend service, and React for the website. The database is a MariaDB database and everything is hosted on a Linux virtual private server, with deploys being done through Jenkins pipelines.
 
