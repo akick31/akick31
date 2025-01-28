@@ -19,4 +19,3 @@
 - Made the Dean's List every semester at Iowa State
 - Earned Eagle Scout in Boy Scouts
 - Multiple Peer Recognition Awards at work
-
