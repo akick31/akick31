@@ -1,5 +1,5 @@
 # Andrew Kicklighter | Senior Software Engineer
-**Full Stack Specialist | Distributed Systems | High-Scale Backend Architecture**
+**Full Stack Engineer | Distributed Systems | High-Scale Backend Architecture**
 
 I am a Senior Software Engineer based in the Twin Cities, MN, with a focus on building high-availability systems and scalable full-stack applications. My experience ranges from maintaining algorithms handling **40M+ daily transactions** to architecting end-to-end platforms from the ground up.
 
