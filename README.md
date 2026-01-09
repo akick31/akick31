@@ -7,7 +7,7 @@ I am a Senior Software Engineer based in the Twin Cities, MN, with a focus on bu
 
 ### Featured Projects
 
-#### Sine: Procedural Logic iOS Game
+#### 1. Sine: Procedural Logic iOS Game
 *A high-performance, 60fps mobile application logic game to match oscilloscope waveforms, built to explore high-velocity application development.*
 
 **The Tech Stack**
@@ -22,7 +22,7 @@ I am a Senior Software Engineer based in the Twin Cities, MN, with a focus on bu
 * Engineered a mathematical matching system that evaluates user-generated waveforms against target patterns in real-time.
 
 
-#### College Football Simulation Platform
+#### 2. College Football Simulation Platform
 *A full-stack, event-driven gaming ecosystem built to handle complex procedural logic and real-time user interactions.*
 
 **The Tech Stack**
