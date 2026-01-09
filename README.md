@@ -58,5 +58,5 @@ I am a Senior Software Engineer based in the Twin Cities, MN, with a focus on bu
 When I'm not architecting systems, I'm likely training for my next marathon (5 and counting!), backpacking, or exploring the world with my wife.
 
 ### Connect with Me
-* **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/andrew-kicklighter-b25b4313b/)
+* **LinkedIn:** [Profile](https://www.linkedin.com/in/andrew-kicklighter-b25b4313b/)
 * **Email:** apkicklighter@gmail.com
