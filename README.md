@@ -26,6 +26,8 @@ I am a Senior Software Engineer based in the Twin Cities, MN, with a focus on bu
 ### College Football Simulation Platform
 *A full-stack, event-driven gaming ecosystem built to handle complex procedural logic and real-time user interactions.*
 
+**Live Site:** [www.fakecollegefootball.com](https://www.fakecollegefootball.com)
+
 **The Tech Stack**
 * **Backend:** Kotlin / Spring Boot (REST API, Football Game Logic)
 * **Frontend:** React (Website for Management Dashboard & Statistics)
