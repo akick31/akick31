@@ -5,9 +5,9 @@ I am a Senior Software Engineer based in the Twin Cities, MN, with a focus on bu
 
 ---
 
-### Featured Projects
+## Featured Projects
 
-#### 1. Sine: Procedural Logic iOS Game
+### Sine: Procedural Logic iOS Game
 *A high-performance, 60fps mobile application logic game to match oscilloscope waveforms, built to explore high-velocity application development.*
 
 **The Tech Stack**
@@ -21,8 +21,9 @@ I am a Senior Software Engineer based in the Twin Cities, MN, with a focus on bu
 * Optimized rendering logic to maintain a consistent **60fps** during complex procedural animations and real-time user waveform manipulation.
 * Engineered a mathematical matching system that evaluates user-generated waveforms against target patterns in real-time.
 
+---
 
-#### 2. College Football Simulation Platform
+### College Football Simulation Platform
 *A full-stack, event-driven gaming ecosystem built to handle complex procedural logic and real-time user interactions.*
 
 **The Tech Stack**
@@ -38,7 +39,7 @@ I am a Senior Software Engineer based in the Twin Cities, MN, with a focus on bu
 
 ---
 
-### Technical Toolkit
+## Technical Toolkit
 * **Languages:** Kotlin, Java, Python, PHP, C, C#, SQL
 * **Frontend/Mobile:** React, Angular, Flutter, JavaScript/TypeScript
 * **Cloud & DevOps:** AWS (Lambda, ECS, SQS, DynamoDB, S3), Kafka, Docker, Jenkins
@@ -46,7 +47,7 @@ I am a Senior Software Engineer based in the Twin Cities, MN, with a focus on bu
 
 ---
 
-### Professional Highlights & Education
+## Professional Highlights & Education
 * **Education:** B.S. in Computer Engineering, **Iowa State University** (*Magna Cum Laude*)
 * **Scale:** Managed matching engines facilitating **40M+ daily homeowner-pro connections** at Angi.
 * **Efficiency:** Automated rebate systems resulting in **$5M+ in business savings** at Chewy.
@@ -54,9 +55,9 @@ I am a Senior Software Engineer based in the Twin Cities, MN, with a focus on bu
 
 ---
 
-### Beyond the Code
+## Beyond the Code
 When I'm not architecting systems, I'm likely training for my next marathon (5 and counting!), backpacking, or exploring the world with my wife.
 
-### Connect with Me
+## Connect with Me
 * **LinkedIn:** [Profile](https://www.linkedin.com/in/andrew-kicklighter-b25b4313b/)
 * **Email:** apkicklighter@gmail.com
