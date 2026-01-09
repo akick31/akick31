@@ -11,7 +11,7 @@ I am a Senior Software Engineer based in the Twin Cities, MN, with a focus on bu
 *A high-performance, 60fps mobile application logic game to match oscilloscope waveforms, built to explore high-velocity application development.*
 
 **The Tech Stack**
-* **Framework:** Flutter / Dart (Reactive UI & Canvas API)
+* **Framework:** Flutter / Dart
 * **Development Workflow:** AI-Assisted Engineering (Cursor)
 * **Platform:** iOS (Native Performance Optimization)
 * **Logic Engine:** Custom procedural waveform generation algorithms
