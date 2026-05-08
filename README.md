@@ -35,7 +35,7 @@ I am a Senior Software Engineer based in the Twin Cities, MN, with a focus on bu
 
 ---
 
-### College Football Simulation Platform
+### [College Football Discord Game](https://fakecollegefootball.com/)
 
 **The Tech Stack**
 * **Backend:** Kotlin / Spring Boot (REST API, Football Game Logic)
@@ -50,7 +50,7 @@ I am a Senior Software Engineer based in the Twin Cities, MN, with a focus on bu
 
 ---
 
-## Technical Toolkit
+## Technical Skills
 * **Languages:** Kotlin, Java, Python, PHP, C, C#, SQL
 * **Frontend/Mobile:** React, Angular, Flutter, JavaScript/TypeScript
 * **Cloud & DevOps:** AWS (Lambda, ECS, SQS, DynamoDB, S3), Kafka, Docker, Jenkins
