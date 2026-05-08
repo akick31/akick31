@@ -12,12 +12,22 @@ I am a Senior Software Engineer based in the Twin Cities, MN, with a focus on bu
 * **Frontend:** React (Website for playing the game)
 * **Database & Infrastructure:** MariaDB, Linux VPS, Nginx, Jenkins CI/CD Pipelines
 
+**Key Achievements**
+* Engineered a headless browser service within Spring Boot to capture screenshots player percentiles from Baseball Savant.
+* Implemented continuable playability, allowing users to generate random games or play past games to keep users playing.
+* Orchestrated the entire deployment lifecycle, from MariaDB schema design to Jenkins-automated builds, hosted on a personal Linux VPS behind an Nginx reverse proxy.
+
 ---
 
-### [MSRP: Guess the final sale value of 5 eBay auction items](https://msrpgame.com/)
+### [MSRP: Guess the final sale value of 5 eBay auction items daily](https://msrpgame.com/)
 * **Backend:** Kotlin / Spring Boot (REST API, curating items)
 * **Frontend:** React (Website for playing the game)
 * **Database & Infrastructure:** MariaDB, Linux VPS, Nginx, Jenkins CI/CD Pipelines
+
+**Key Achievements**
+* Leveraged the eBay API to programmatically curate items daily for the game.
+* Implemented a robust backend state machine to manage daily game instances, ensuring that all players worldwide receive the same item set while preventing client-side data leaks of the actual game.
+* Streamlined the development-to-production pipeline using Jenkins, allowing for rapid iterative updates to the React frontend while maintaining a stable Kotlin/Spring Boot REST API.
 
 ---
 
