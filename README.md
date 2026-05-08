@@ -7,24 +7,35 @@ I am a Senior Software Engineer based in the Twin Cities, MN, with a focus on bu
 
 ## Featured Projects
 
-### Sine: Procedural Logic iOS Game
-*A high-performance, 60fps mobile application logic game to match oscilloscope waveforms, built to explore high-velocity application development.*
+### [Savantle: Wordle, but for guessing Baseball Savant percentiles](https://savantle.com/)
+* **Backend:** Kotlin / Spring Boot (REST API, getting screenshots)
+* **Frontend:** React (Website for playing the game)
+* **Database & Infrastructure:** MariaDB, Linux VPS, Nginx, Jenkins CI/CD Pipelines
+
+---
+
+### [MSRP: Guess the final sale value of 5 eBay auction items](https://msrpgame.com/)
+* **Backend:** Kotlin / Spring Boot (REST API, curating items)
+* **Frontend:** React (Website for playing the game)
+* **Database & Infrastructure:** MariaDB, Linux VPS, Nginx, Jenkins CI/CD Pipelines
+
+---
+
+### [Sine: An Oscilloscope waveform matching puzzle on iOS](https://apps.apple.com/us/app/sine-the-waveform-puzzle/id6756984657)
 
 **The Tech Stack**
 * **Framework:** Flutter / Dart
-* **Development Workflow:** AI-Assisted Engineering (Cursor)
 * **Platform:** iOS (Native Performance Optimization)
 * **Logic Engine:** Custom procedural waveform generation algorithms
 
-**Key Achievement**
-* Developed and shipped a polished product from scratch in **4 weeks**, leveraging AI-assisted workflows to compress a traditional 4-month development cycle.
+**Key Achievements**
+* Developed and shipped a polished product from scratch
 * Optimized rendering logic to maintain a consistent **60fps** during complex procedural animations and real-time user waveform manipulation.
 * Engineered a mathematical matching system that evaluates user-generated waveforms against target patterns in real-time.
 
 ---
 
 ### College Football Simulation Platform
-*A full-stack, event-driven gaming ecosystem built to handle complex procedural logic and real-time user interactions.*
 
 **The Tech Stack**
 * **Backend:** Kotlin / Spring Boot (REST API, Football Game Logic)
@@ -32,8 +43,8 @@ I am a Senior Software Engineer based in the Twin Cities, MN, with a focus on bu
 * **Real-time Interface:** Discord Bot (Kord library) for live game execution
 * **Database & Infrastructure:** MariaDB, Linux VPS, Nginx, Jenkins CI/CD Pipelines
 
-**Key Achievement**
-* Architected a **centralized Spring Boot engine** to manage state across both a website and a real-time Discord interface.
+**Key Achievements**
+* Created a **centralized Spring Boot engine** to manage state across both a website and a real-time Discord interface.
 * Implemented automated **CI/CD pipelines via Jenkins** for seamless deployment to a Linux environment and using Nginx to host the website.
 * Developed custom procedural logic to translate numerical inputs into dynamic game outcomes in real-time.
 
@@ -56,7 +67,7 @@ I am a Senior Software Engineer based in the Twin Cities, MN, with a focus on bu
 ---
 
 ## Beyond the Code
-When I'm not architecting systems, I'm likely training for my next marathon (5 and counting!), backpacking, or exploring the world with my wife.
+When I'm not coding, I'm likely training for my next marathon (5 and counting!), backpacking, or exploring the world with my wife!
 
 ## Connect with Me
 * **LinkedIn:** [Profile](https://www.linkedin.com/in/andrew-kicklighter-b25b4313b/)
