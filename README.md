@@ -19,18 +19,6 @@ I am a Senior Software Engineer based in the Twin Cities, MN, with a focus on bu
 
 ---
 
-### [MSRP: Guess the final sale value of 5 eBay auction items daily](https://msrpgame.com/)
-* **Backend:** Kotlin / Spring Boot (REST API, curating items)
-* **Frontend:** React (Website for playing the game)
-* **Database & Infrastructure:** MariaDB, Linux VPS, Nginx, Jenkins CI/CD Pipelines
-
-**Key Achievements**
-* Leveraged the eBay API to programmatically curate items daily for the game.
-* Implemented a robust backend state machine to manage daily game instances, ensuring that all players worldwide receive the same item set while preventing client-side data leaks of the actual game.
-* Streamlined the development-to-production pipeline using Jenkins, allowing for rapid iterative updates to the React frontend while maintaining a stable Kotlin/Spring Boot REST API.
-
----
-
 ### [Sine: An Oscilloscope waveform matching puzzle on iOS](https://apps.apple.com/us/app/sine-the-waveform-puzzle/id6756984657)
 
 **The Tech Stack**
